@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConsumirWsVolley</string>
+    <string name="url_ws">Url WS:</string>
+    <string name="http_nexo_carm_es_nexo_archivos_recursos_opendata_json_campings_json">http://nexo.carm.es/nexo/archivos/recursos/opendata/json/Campings.json</string>
+    <string name="parsear">Parsear</string>
+    <string name="respuesta">Respuesta</string>
+    <string name="consumir">Consumir</string>
+</resources>
